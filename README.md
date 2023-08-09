@@ -12,6 +12,15 @@ There are four files available, which contain separate train and test, and image
 
 Thanks to Yann LeCun, Corinna Cortes, and Christopher J.C. Burges.
 
+# installation 
+```
+!pip install torch
+!pip install numpy
+!pip install tqdm
+!pip install matplotlib
+!pip install torchsummary
+```
+
 # Usage 
 
 to try this model, you can go directly to the notebook and just run it 
